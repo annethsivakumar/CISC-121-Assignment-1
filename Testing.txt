@@ -1,0 +1,185 @@
+a1_q1.py - Test 1:
+Two randomly generated integer numbers are 0 and 59
+This pair of integers is invalid.
+Two randomly generated integer numbers are 0 and 19
+This pair of integers is valid.
+
+Output for the valid numbers 0,19:
+0
+1
+2
+pineapple
+4
+apple
+6
+pen
+8
+9
+apple
+11
+12
+pineapple
+pen
+apple
+16
+17
+18
+19
+
+
+a1_q1.py - Test 2:
+Two randomly generated integer numbers are 35 and 73
+This pair of integers is valid.
+
+Output for the valid numbers 35,73:
+apple pen pineapple
+pineapple
+pineapple
+pineapple
+pineapple
+apple
+41
+pen
+pineapple
+44
+apple
+46
+47
+48
+pen
+apple
+51
+52
+pineapple
+54
+apple
+pen
+57
+58
+59
+apple
+61
+62
+pen pineapple
+64
+apple
+66
+67
+68
+69
+apple pen
+71
+72
+pineapple
+
+
+
+a1_q2.py - Test 1:
+Enter your name: Anneth
+Enter your age: 18
+Enter your favorite color: black
+
+Enter another person's name: Ethan
+-
+Anwar Hossain
+00
+blue
+-
+Erin Meger
+00
+pink
+-
+Chuck Noris
+60
+yellow
+-
+Anneth
+18
+black
+-
+Ethan
+20
+green
+-
+
+
+a1_q2.py - Test 2:
+Enter your name: Mason
+Enter your age: 20
+Enter your favorite color: yellow
+
+Enter another person's name: Ella
+-
+Anwar Hossain
+00
+blue
+-
+Erin Meger
+00
+pink
+-
+Chuck Noris
+60
+yellow
+-
+Anneth
+18
+black
+-
+Ethan
+20
+green
+-
+Mason
+20
+yellow
+-
+Ella
+22
+yellow
+-
+
+
+a1_q2.py - Test 3:
+Enter your name: Haris
+Enter your age: 23
+Enter your favorite color: red
+
+Enter another person's name: Connor
+-
+Anwar Hossain
+00
+blue
+-
+Erin Meger
+00
+pink
+-
+Chuck Noris
+60
+yellow
+-
+Anneth
+18
+black
+-
+Ethan
+20
+green
+-
+Mason
+20
+yellow
+-
+Ella
+22
+yellow
+-
+Haris
+23
+red
+-
+Connor
+18
+blue
+-

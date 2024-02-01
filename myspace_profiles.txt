@@ -1,0 +1,37 @@
+-
+Anwar Hossain
+00
+blue
+-
+Erin Meger
+00
+pink
+-
+Chuck Noris
+60
+yellow
+-
+Anneth
+18
+black
+-
+Ethan
+20
+green
+-
+Mason
+20
+yellow
+-
+Ella
+22
+yellow
+-
+Haris
+23
+red
+-
+Connor
+18
+blue
+-
